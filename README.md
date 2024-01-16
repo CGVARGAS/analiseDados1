@@ -7,7 +7,7 @@ Este repositório contém os scripts em Python utilizados no curso de Python par
 ## Aulas de Análise de Dados
 
 ### 1. Importação e Visualização de Dados
-Neste script, utilizamos as bibliotecas pandas, numpy e matplotlib para importar e visualizar os dados de ações, destacando a evolução dos preços ao longo do tempo.
+Neste script, utilizamos as bibliotecas pandas, numpy e matplotlib para importar e visualizar os dados de ações salvos em arquivo .csv, destacando a evolução dos preços ao longo do tempo.
 
 ```python
 import pandas as pd
